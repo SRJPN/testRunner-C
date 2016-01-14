@@ -9,6 +9,7 @@
   "author": "Adenlie",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^1.1.1",
     "command-line-args": "^2.1.4"
   }
 }
