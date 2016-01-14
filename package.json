@@ -1,0 +1,14 @@
+{
+  "name": "testframework-c",
+  "version": "1.0.0",
+  "description": "It is a testing framework used for c programs.",
+  "main": "Ctest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adenlie",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^2.1.4"
+  }
+}
